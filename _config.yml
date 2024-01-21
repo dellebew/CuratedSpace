@@ -1,8 +1,19 @@
 title: Adelle's Curated Space
 description: portfolio
-theme: jekyll-theme-beautiful
+remote_theme: niklasbuschmann/contrast@v2.11
+# theme: jekyll-theme-beautiful
+
+plugins:
+  - jekyll-remote-theme
+
 
 url: "dellebew.github.io/CuratedSpace"
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md"}
+  - {file: "fifthrow.md"}
+  - {file: "hackathons.md"}
+
 
 aux_links:
   Repository: github.com/dellebew/dellebew.github.io
