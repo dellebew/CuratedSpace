@@ -1,6 +1,5 @@
 ---
 title: Adelle's FifthRows
-layout: auto
 filename: fifthrow.md
 --- 
 Fifth Row/Extracurricular

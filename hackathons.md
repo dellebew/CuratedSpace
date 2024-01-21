@@ -1,6 +1,5 @@
 ---
 title: Adelle's Hackathons
-layout: auto
 filename: hackathons.md
 --- 
 

@@ -1,6 +1,5 @@
 ---
 title: Adelle's Curated Space
-layout: auto
 filename: index.md
 --- 
 Technical projects and endeavours
