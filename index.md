@@ -1,7 +1,7 @@
 ---
 title: Adelle's Curated Space
 layout: jekyll-remote-mordenist
-filename: main.md FILE HERE
+filename: index.md
 --- 
 ## Technical projects and endeavours
 
