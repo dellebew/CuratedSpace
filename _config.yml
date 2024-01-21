@@ -10,9 +10,9 @@ plugins:
 url: "dellebew.github.io/CuratedSpace"
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md"}
-  - {file: "fifthrow.md"}
-  - {file: "hackathons.md"}
+  - {file: "index.md", title: "Projects"}
+  - {file: "fifthrow.md", title: "Fifthrows"}
+  - {file: "hackathons.md", title: "Hackthons"}
 
 
 aux_links:
