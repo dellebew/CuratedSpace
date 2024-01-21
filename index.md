@@ -1,8 +1,7 @@
 ---
-title: Adelle's Curated Space
+title: Technical projects and endeavours
 filename: index.md
 --- 
-Technical projects and endeavours
 
 # Hotel booking page mockup
 ![Alt text](./images/HotelBooking.jpg)
