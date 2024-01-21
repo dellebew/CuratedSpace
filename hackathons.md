@@ -1,6 +1,6 @@
 ---
 title: Adelle's Hackathons
-layout: jekyll-remote-modernist
+layout: auto
 filename: hackathons.md
 --- 
 

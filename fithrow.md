@@ -1,6 +1,6 @@
 ---
 title: Adelle's FifthRows
-layout: jekyll-remote-modernist
+layout: auto
 filename: fifthrow.md
 --- 
 Fifth Row/Extracurricular

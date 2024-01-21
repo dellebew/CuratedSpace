@@ -1,6 +1,6 @@
 ---
 title: Adelle's Curated Space
-layout: jekyll-remote-modernist
+layout: auto
 filename: index.md
 --- 
 Technical projects and endeavours
