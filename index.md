@@ -31,36 +31,3 @@ To help people understand the different flavours of poems: both eastern and west
 customizable questions were built via prompt engineering to encourage related questions by the masses. 
 The interface was built with Streamlit and integration was done with openai. 
 
-## Hackathons/Competitions
-
-### Heartland Hackathon (May 2022)
-Achieved first place in this hackathon. Our solution targeted the localization of noise pollution in hdbs.
-We were able to integrate a cheap solution with a recent research paper, producing the estimated cost of usage. 
-Additionally, with ground work interaction with the users of the product (pa staff), we produced a mockup of a sample application with warning.
-The project used a basic Grove noise sensor but also considered long term battery lifespan costs while considering placement in corridoors.
-
-### CyberSpirit Hackathon (Jan 2023)
-This hackathon was built for future hackers. 
-With a group of friends, we learnt a lot infiltrating into various iot firmware strategically placed at the location.
-While we did not attain first, we did attain a special mention for strategic engagement with the firmware.
-
-### SOAR Roboclash foodwars (Jan 2023)
-Participated in a robotics competition where robots collected as many balls possible to attain the highest number of points. 
-We used arduino and many motors to build this robot.
-
-## Fifth Row/Extracurricular
-
-### Sunig (Tchoukball)
-Tchouk Vice-Pres for 1 year, Tchouk Exco for 2 years. In my time with the club, 
-we have attained 1 gold, 1 silver and 1 bronze. We are the first club in SUTD to attain sports podium placing. 
-This can largely be attributed to the lack of sportsmen interested in engineering-related subjects. As vice-pres, 
-I've had to mediate squabbles, retain club members, and find innovative ways to motivate the team towards upcoming competitions.
-
-### SUTD Bands (Vocalist)
-Organized 1 concert and have performed on at least 5 stages throughout my SUTD life. 
-Soft skills in teamwork, negotiation and giving nuanced constructive feedback were learnt through this experience.
-As the frontman, skills in audience engagement were also picked up. Additionally, it was important to build rapport with the
-various organizers in school.
-
-### SUTD Productions (Actor/Editor)
-Edited a full online concert (Springheads 2021), filmed the livestream for Roboclash 2022, acted as the villain in Orientation Videos for 2022 and 2023 

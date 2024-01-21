@@ -1,0 +1,9 @@
+title: Adelle's Curated Space
+description: portfolio space where summer projects cannot fit in the resume
+theme: jekyll-remote-mordenist
+
+baseurl: "/space"
+url: "dellebew.github.io"
+
+aux_links:
+  Repository: github.com/dellebew/dellebew.github.io
