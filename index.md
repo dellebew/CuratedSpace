@@ -3,6 +3,13 @@ title: Technical projects and endeavours
 filename: index.md
 --- 
 
+# Capstone
+In SUTD, the capstone is a final year project executed by a combination of students of different specializations. I worked with 2 engineering devlopment students, and 3 other computer science and design students. 
+
+I was in charge of building the real time data processor. This can be split into 3 parts. 1. The backend data processor in Flink, optimizing the latency of the data and the scalability of our algorithm. 2. The data sink consumer and web socket also had to be expediated. 3. The frontend socket consumer and the visualisations, including a map on leaflet.
+
+https://capstoneshowcase.sutd.edu.sg/project/proj-s32-klass-engineering-personnel-and-artefact-monitoring-system-pams/
+
 # Hotel booking page mockup
 ![Alt text](./images/HotelBooking.jpg)
 `link: https://github.com/dellebew/ESC_Ascenda` (school project)
